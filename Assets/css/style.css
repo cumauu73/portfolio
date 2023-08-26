@@ -22,24 +22,28 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 80px;
-  padding: 130px;
-  padding-bottom: 130px;
+  margin: 120px 50px 180px;
   
 }
 .works {
   display: block;
   flex-direction:row;
   justify-content: center;
-  margin: 130px;
-  padding: 50px;
+  margin: 120px 50px 180px;
   
+}
+.kutu {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .pro {
   display: flex;
   flex-direction: column;
   color: red;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 .contact {
   display: flex;
@@ -231,7 +235,10 @@ button:hover {
     padding: 30px;
   }
   
-  
+  .contact li {
+    margin: 5px;
+    
+  }
   
  
 
