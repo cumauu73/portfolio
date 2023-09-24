@@ -16,8 +16,6 @@ body {
   background-image: linear-gradient(to right, rgba(0, 140, 255, 0.345), rgba(187, 223, 28, 0.379));
 }
 
-
-
 .about {
   display: flex;
   flex-direction: column;
