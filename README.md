@@ -1,38 +1,41 @@
-# 02 Advanced CSS: Portfolio
+# Portfolio Website
 
-## User Story
+This is a README file for my portfolio website. It provides an overview of the project and instructions on how to set it up and use it.
 
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
+## Table of Contents
 
-## Acceptance Criteria
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+## Description
 
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+In this section, you can provide a brief description of your portfolio website. Explain what it is about, its purpose, and any other relevant information.
 
+## Features
 
-## Mock-Up
+List the main features of your portfolio website. This can include things like:
 
-The following animation shows the web application's appearance and functionality:
+- Responsive design
+- Project showcase
+- About me section
+- Contact form
 
-![portfolio demo](./Assets/challenge2gif.jpg)
+## Installation
 
+Provide instructions on how to install and set up your portfolio website. Include any dependencies or prerequisites that need to be installed.
 
+## Usage
+
+Explain how to use your portfolio website. Provide any necessary instructions or guidelines for navigating through the website and accessing different sections.
+
+## Contributing
+
+If you want to allow others to contribute to your portfolio website, provide guidelines on how they can do so. Include information on how to submit pull requests or raise issues.
+
+## License
+
+Specify the license under which your portfolio website is released. You can choose from various open-source licenses, such as MIT, Apache, or GNU.
